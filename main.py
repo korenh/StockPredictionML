@@ -13,7 +13,7 @@ class StockPrediction():
         self.provider = provider
         self.symbol = symbol
         self.start = dt.datetime(2014, 1, 1)
-        self.end = dt.datetime(2021, 1, 1)
+        self.end = dt.datetime.now()
         self.data = web.DataReader(
             self.symbol, self.provider, self.start, self.end)
         self.scaler = MinMaxScaler(feature_range=(0, 1))
