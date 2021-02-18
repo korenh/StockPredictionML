@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# StockPredictionML
 
 *Stock price prediction using NeuralNetwork and MachineLearning*
 
