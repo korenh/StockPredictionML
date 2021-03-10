@@ -2,7 +2,7 @@
 
 <img src="./sample/example.png" height="300">
 
-*Stock price prediction using NeuralNetwork and MachineLearning*
+*Stock price prediction using NeuralNetwork & MachineLearning*
 
 ### Dependencies
 ```bash
